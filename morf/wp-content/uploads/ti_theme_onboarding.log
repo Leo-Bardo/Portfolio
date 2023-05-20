@@ -1,0 +1,18 @@
+[26/Apr/2023:21:42:56] (I): WordPress Instance Info:
+[26/Apr/2023:21:42:56] (I): Home URL : http://localhost/morf
+[26/Apr/2023:21:42:56] (I): Site URL : http://localhost/morf
+[26/Apr/2023:21:42:56] (I): WordPress Version : 6.2
+[26/Apr/2023:21:42:56] (I): Onboarding Version : 1.1.38
+[26/Apr/2023:21:42:56] (I): Multisite : No
+[26/Apr/2023:21:42:56] (I): Server Info : Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4
+[26/Apr/2023:21:42:56] (I): PHP Version : 8.2.4
+[26/Apr/2023:21:42:56] (I): HTTPS : No
+[26/Apr/2023:21:42:56] (I): PHP Max Execution Time : 120
+[26/Apr/2023:21:42:56] (I): PHP Max Input Vars : 1000
+[26/Apr/2023:21:42:56] (I): Max Upload Size : 41943040
+[26/Apr/2023:21:42:56] (I): Plugins:
+[26/Apr/2023:21:42:56] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.2.6 (ThemeIsle)
+[26/Apr/2023:21:42:56] (I): [PLUGIN] Templates Patterns Collection : v1.1.38 (ThemeIsle)
+[26/Apr/2023:21:42:56] (P): Installing optimole-wp.
+[26/Apr/2023:21:43:00] (P): Activating optimole-wp.
+[26/Apr/2023:21:43:01] (S): Installed and activated plugins.
